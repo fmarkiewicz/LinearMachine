@@ -1,0 +1,2 @@
+# LinearMachine
+exercise for studies
